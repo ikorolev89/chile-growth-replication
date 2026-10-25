@@ -1,0 +1,30 @@
+{
+  "factors": {
+    "total": 18,
+    "matched": 18
+  },
+  "weights": {
+    "total": 627,
+    "matched": 626
+  },
+  "placebos": {
+    "total": 54,
+    "matched": 54
+  },
+  "stored_tables": {
+    "total": 134,
+    "matched": 134
+  },
+  "curves": {
+    "total": 72,
+    "matched": 72
+  },
+  "simulations": {
+    "total": 80,
+    "matched": 80
+  },
+  "stm": {
+    "total": 18,
+    "matched": 8
+  }
+}

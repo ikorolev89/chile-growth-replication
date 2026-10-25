@@ -1,0 +1,8 @@
+"check","rows","max_abs_difference","tolerance","pass"
+"main_estimates",798,0,1e-07,TRUE
+"SCM_weights",501,0,1e-07,TRUE
+"factor_counts",18,0,0,TRUE
+"placebo_MSE",54,0,1e-07,TRUE
+"simulation_MSE",48,0,1e-06,TRUE
+"simulation_factors",16,0,1e-08,TRUE
+"STSM_matches_audit",798,0,1e-06,TRUE

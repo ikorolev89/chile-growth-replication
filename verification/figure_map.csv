@@ -1,0 +1,113 @@
+publication_label,caption,figure_file,source_scripts,exists_in_code
+Figure 1,"Log Real GDP per Capita, 1973",chile_wb_1973_esc_17.eps,chile_1973_esc17.R,True
+Figure 1,"Log Real GDP per Capita, 1973",chile_mad_1973_esc_17.eps,chile_1973_esc17.R,True
+Figure 1,"Log Real GDP per Capita, 1973",chile_wb_1973_esc_25.eps,chile_1973_esc25.R,True
+Figure 1,"Log Real GDP per Capita, 1973",chile_mad_1973_esc_25.eps,chile_1973_esc25.R,True
+Figure 1,"Log Real GDP per Capita, 1973",chile_wb_1973_49.eps,chile_1973_49.R,True
+Figure 1,"Log Real GDP per Capita, 1973",chile_mad_1973_49.eps,chile_1973_49.R,True
+Figure 2,"Log Real GDP per Capita, 1988",chile_wb_1988_esc_17.eps,chile_1988_esc17.R,True
+Figure 2,"Log Real GDP per Capita, 1988",chile_mad_1988_esc_17.eps,chile_1988_esc17.R,True
+Figure 2,"Log Real GDP per Capita, 1988",chile_wb_1988_esc_25.eps,chile_1988_esc25.R,True
+Figure 2,"Log Real GDP per Capita, 1988",chile_mad_1988_esc_25.eps,chile_1988_esc25.R,True
+Figure 2,"Log Real GDP per Capita, 1988",chile_wb_1988_49.eps,chile_1988_49.R,True
+Figure 2,"Log Real GDP per Capita, 1988",chile_mad_1988_49.eps,chile_1988_49.R,True
+Figure 3,"Log Real GDP per Capita, 1988, Extended Dataset",chile_wb_1988_esc_17_1.eps,chile_1988_esc17_1.R,True
+Figure 3,"Log Real GDP per Capita, 1988, Extended Dataset",chile_mad_1988_esc_17_1.eps,chile_1988_esc17_1.R,True
+Figure 3,"Log Real GDP per Capita, 1988, Extended Dataset",chile_wb_1988_esc_25_1.eps,chile_1988_esc25_1.R,True
+Figure 3,"Log Real GDP per Capita, 1988, Extended Dataset",chile_mad_1988_esc_25_1.eps,chile_1988_esc25_1.R,True
+Figure 3,"Log Real GDP per Capita, 1988, Extended Dataset",chile_wb_1988_49_1.eps,chile_1988_49_1.R,True
+Figure 3,"Log Real GDP per Capita, 1988, Extended Dataset",chile_mad_1988_49_1.eps,chile_1988_49_1.R,True
+Figure A1,Chile and the Donor Pool,chile_background_esc_17.eps,chile_background_plots.R,True
+Figure A1,Chile and the Donor Pool,chile_background_mad_esc_17.eps,chile_background_plots.R,True
+Figure A1,Chile and the Donor Pool,chile_background_esc_25.eps,chile_background_plots.R,True
+Figure A1,Chile and the Donor Pool,chile_background_mad_esc_25.eps,chile_background_plots.R,True
+Figure A1,Chile and the Donor Pool,chile_background_49.eps,chile_background_plots.R,True
+Figure A1,Chile and the Donor Pool,chile_background_mad_49.eps,chile_background_plots.R,True
+Figure A2,"Overlap in Factor Loadings, Small Donor Pool, 1973",chile_wb_1973_esc_17_hist.eps,histograms.R,True
+Figure A3,"Overlap in Factor Loadings, Large Donor Pool, 1973",chile_wb_1973_49_hist_1.eps,histograms.R,True
+Figure A3,"Overlap in Factor Loadings, Large Donor Pool, 1973",chile_wb_1973_49_hist_2.eps,histograms.R,True
+Figure A3,"Overlap in Factor Loadings, Large Donor Pool, 1973",chile_wb_1973_49_hist_3.eps,histograms.R,True
+Figure A3,"Overlap in Factor Loadings, Large Donor Pool, 1973",chile_wb_1973_49_hist_4.eps,histograms.R,True
+Figure A3,"Overlap in Factor Loadings, Large Donor Pool, 1973",chile_wb_1973_49_hist_5.eps,histograms.R,True
+Figure A4,"Overlap in Factor Loadings, Small Donor Pool, 1988",chile_wb_1988_esc_17_hist.eps,histograms.R,True
+Figure A5,"Overlap in Factor Loadings, Large Donor Pool, 1988",chile_wb_1988_49_hist_1.eps,histograms.R,True
+Figure A5,"Overlap in Factor Loadings, Large Donor Pool, 1988",chile_wb_1988_49_hist_2.eps,histograms.R,True
+Figure A5,"Overlap in Factor Loadings, Large Donor Pool, 1988",chile_wb_1988_49_hist_3.eps,histograms.R,True
+Figure A6,Simulation Setups,simulations_hetero_factor_10_const.eps,,True
+Figure A6,Simulation Setups,simulations_hetero_factor_10_incr.eps,,True
+Figure A6,Simulation Setups,simulations_hetero_factor_25_const.eps,,True
+Figure A6,Simulation Setups,simulations_hetero_factor_25_incr.eps,,True
+Figure A6,Simulation Setups,simulations_hetero_factor_50_const.eps,,True
+Figure A6,Simulation Setups,simulations_hetero_factor_50_incr.eps,,True
+Figure A7,"Placebo Gaps, SCM, 1973",placebo_1973_esc17_scm.eps,plots_placebo_1973_esc17.R,True
+Figure A7,"Placebo Gaps, SCM, 1973",placebo_1973_esc17_mad_scm.eps,plots_placebo_1973_esc17.R,True
+Figure A7,"Placebo Gaps, SCM, 1973",placebo_1973_esc25_scm.eps,plots_placebo_1973_esc25.R,True
+Figure A7,"Placebo Gaps, SCM, 1973",placebo_1973_esc25_mad_scm.eps,plots_placebo_1973_esc25.R,True
+Figure A7,"Placebo Gaps, SCM, 1973",placebo_1973_49_scm.eps,plots_placebo_1973_49.R,True
+Figure A7,"Placebo Gaps, SCM, 1973",placebo_1973_49_mad_scm.eps,plots_placebo_1973_49.R,True
+Figure A8,"Placebo Gaps, GSCM, 1973",placebo_1973_esc17_gsynth.eps,plots_placebo_1973_esc17.R,True
+Figure A8,"Placebo Gaps, GSCM, 1973",placebo_1973_esc17_mad_gsynth.eps,plots_placebo_1973_esc17.R,True
+Figure A8,"Placebo Gaps, GSCM, 1973",placebo_1973_esc25_gsynth.eps,plots_placebo_1973_esc25.R,True
+Figure A8,"Placebo Gaps, GSCM, 1973",placebo_1973_esc25_mad_gsynth.eps,plots_placebo_1973_esc25.R,True
+Figure A8,"Placebo Gaps, GSCM, 1973",placebo_1973_49_gsynth.eps,plots_placebo_1973_49.R,True
+Figure A8,"Placebo Gaps, GSCM, 1973",placebo_1973_49_mad_gsynth.eps,plots_placebo_1973_49.R,True
+Figure A9,"Placebo Gaps, BSTSM, 1973",placebo_1973_esc17_CI.eps,plots_placebo_1973_esc17.R,True
+Figure A9,"Placebo Gaps, BSTSM, 1973",placebo_1973_esc17_mad_CI.eps,plots_placebo_1973_esc17.R,True
+Figure A9,"Placebo Gaps, BSTSM, 1973",placebo_1973_esc25_CI.eps,plots_placebo_1973_esc25.R,True
+Figure A9,"Placebo Gaps, BSTSM, 1973",placebo_1973_esc25_mad_CI.eps,plots_placebo_1973_esc25.R,True
+Figure A9,"Placebo Gaps, BSTSM, 1973",placebo_1973_49_CI.eps,plots_placebo_1973_49.R,True
+Figure A9,"Placebo Gaps, BSTSM, 1973",placebo_1973_49_mad_CI.eps,plots_placebo_1973_49.R,True
+Figure A10,"Placebo Gaps, SCM, 1988",placebo_1988_esc17_scm.eps,plots_placebo_1988_esc17.R,True
+Figure A10,"Placebo Gaps, SCM, 1988",placebo_1988_esc17_mad_scm.eps,plots_placebo_1988_esc17.R,True
+Figure A10,"Placebo Gaps, SCM, 1988",placebo_1988_esc25_scm.eps,plots_placebo_1988_esc25.R,True
+Figure A10,"Placebo Gaps, SCM, 1988",placebo_1988_esc25_mad_scm.eps,plots_placebo_1988_esc25.R,True
+Figure A10,"Placebo Gaps, SCM, 1988",placebo_1988_49_scm.eps,plots_placebo_1988_49.R,True
+Figure A10,"Placebo Gaps, SCM, 1988",placebo_1988_49_mad_scm.eps,plots_placebo_1988_49.R,True
+Figure A11,"Placebo Gaps, GSCM, 1988",placebo_1988_esc17_gsynth.eps,plots_placebo_1988_esc17.R,True
+Figure A11,"Placebo Gaps, GSCM, 1988",placebo_1988_esc17_mad_gsynth.eps,plots_placebo_1988_esc17.R,True
+Figure A11,"Placebo Gaps, GSCM, 1988",placebo_1988_esc25_gsynth.eps,plots_placebo_1988_esc25.R,True
+Figure A11,"Placebo Gaps, GSCM, 1988",placebo_1988_esc25_mad_gsynth.eps,plots_placebo_1988_esc25.R,True
+Figure A11,"Placebo Gaps, GSCM, 1988",placebo_1988_49_gsynth.eps,plots_placebo_1988_49.R,True
+Figure A11,"Placebo Gaps, GSCM, 1988",placebo_1988_49_mad_gsynth.eps,plots_placebo_1988_49.R,True
+Figure A12,"Placebo Gaps, BSTSM, 1988",placebo_1988_esc17_CI.eps,plots_placebo_1988_esc17.R,True
+Figure A12,"Placebo Gaps, BSTSM, 1988",placebo_1988_esc17_mad_CI.eps,plots_placebo_1988_esc17.R,True
+Figure A12,"Placebo Gaps, BSTSM, 1988",placebo_1988_esc25_CI.eps,plots_placebo_1988_esc25.R,True
+Figure A12,"Placebo Gaps, BSTSM, 1988",placebo_1988_esc25_mad_CI.eps,plots_placebo_1988_esc25.R,True
+Figure A12,"Placebo Gaps, BSTSM, 1988",placebo_1988_49_CI.eps,plots_placebo_1988_49.R,True
+Figure A12,"Placebo Gaps, BSTSM, 1988",placebo_1988_49_mad_CI.eps,plots_placebo_1988_49.R,True
+Figure A13,"Placebo Gaps, SCM, 1988, Extended Dataset",placebo_1988_esc17_1_scm.eps,plots_placebo_1988_esc17_1.R,True
+Figure A13,"Placebo Gaps, SCM, 1988, Extended Dataset",placebo_1988_esc17_1_mad_scm.eps,plots_placebo_1988_esc17_1.R,True
+Figure A13,"Placebo Gaps, SCM, 1988, Extended Dataset",placebo_1988_esc25_1_scm.eps,plots_placebo_1988_esc25_1.R,True
+Figure A13,"Placebo Gaps, SCM, 1988, Extended Dataset",placebo_1988_esc25_1_mad_scm.eps,plots_placebo_1988_esc25_1.R,True
+Figure A13,"Placebo Gaps, SCM, 1988, Extended Dataset",placebo_1988_49_1_scm.eps,plots_placebo_1988_49_1.R,True
+Figure A13,"Placebo Gaps, SCM, 1988, Extended Dataset",placebo_1988_49_1_mad_scm.eps,plots_placebo_1988_49_1.R,True
+Figure A14,"Placebo Gaps, GSCM, 1988, Extended Dataset",placebo_1988_esc17_1_gsynth.eps,plots_placebo_1988_esc17_1.R,True
+Figure A14,"Placebo Gaps, GSCM, 1988, Extended Dataset",placebo_1988_esc17_1_mad_gsynth.eps,plots_placebo_1988_esc17_1.R,True
+Figure A14,"Placebo Gaps, GSCM, 1988, Extended Dataset",placebo_1988_esc25_1_gsynth.eps,plots_placebo_1988_esc25_1.R,True
+Figure A14,"Placebo Gaps, GSCM, 1988, Extended Dataset",placebo_1988_esc25_1_mad_gsynth.eps,plots_placebo_1988_esc25_1.R,True
+Figure A14,"Placebo Gaps, GSCM, 1988, Extended Dataset",placebo_1988_49_1_gsynth.eps,plots_placebo_1988_49_1.R,True
+Figure A14,"Placebo Gaps, GSCM, 1988, Extended Dataset",placebo_1988_49_1_mad_gsynth.eps,plots_placebo_1988_49_1.R,True
+Figure A15,"Placebo Gaps, BSTSM, 1988, Extended Dataset",placebo_1988_esc17_1_CI.eps,plots_placebo_1988_esc17_1.R,True
+Figure A15,"Placebo Gaps, BSTSM, 1988, Extended Dataset",placebo_1988_esc17_1_mad_CI.eps,plots_placebo_1988_esc17_1.R,True
+Figure A15,"Placebo Gaps, BSTSM, 1988, Extended Dataset",placebo_1988_esc25_1_CI.eps,plots_placebo_1988_esc25_1.R,True
+Figure A15,"Placebo Gaps, BSTSM, 1988, Extended Dataset",placebo_1988_esc25_1_mad_CI.eps,plots_placebo_1988_esc25_1.R,True
+Figure A15,"Placebo Gaps, BSTSM, 1988, Extended Dataset",placebo_1988_49_1_CI.eps,plots_placebo_1988_49_1.R,True
+Figure A15,"Placebo Gaps, BSTSM, 1988, Extended Dataset",placebo_1988_49_1_mad_CI.eps,plots_placebo_1988_49_1.R,True
+Figure A16,"Log Real GDP per Capita, 1973",chile_wb_1973_esc_17_all.eps,chile_1973_esc17.R,True
+Figure A16,"Log Real GDP per Capita, 1973",chile_mad_1973_esc_17_all.eps,chile_1973_esc17.R,True
+Figure A16,"Log Real GDP per Capita, 1973",chile_wb_1973_esc_25_all.eps,chile_1973_esc25.R,True
+Figure A16,"Log Real GDP per Capita, 1973",chile_mad_1973_esc_25_all.eps,chile_1973_esc25.R,True
+Figure A16,"Log Real GDP per Capita, 1973",chile_wb_1973_49_all.eps,chile_1973_49.R,True
+Figure A16,"Log Real GDP per Capita, 1973",chile_mad_1973_49_all.eps,chile_1973_49.R,True
+Figure A17,"Log Real GDP per Capita, 1988",chile_wb_1988_esc_17_all.eps,chile_1988_esc17.R,True
+Figure A17,"Log Real GDP per Capita, 1988",chile_mad_1988_esc_17_all.eps,chile_1988_esc17.R,True
+Figure A17,"Log Real GDP per Capita, 1988",chile_wb_1988_esc_25_all.eps,chile_1988_esc25.R,True
+Figure A17,"Log Real GDP per Capita, 1988",chile_mad_1988_esc_25_all.eps,chile_1988_esc25.R,True
+Figure A17,"Log Real GDP per Capita, 1988",chile_wb_1988_49_all.eps,chile_1988_49.R,True
+Figure A17,"Log Real GDP per Capita, 1988",chile_mad_1988_49_all.eps,chile_1988_49.R,True
+Figure A18,"Log Real GDP per Capita, 1988, Extended Dataset",chile_wb_1988_esc_17_1_all.eps,chile_1988_esc17_1.R,True
+Figure A18,"Log Real GDP per Capita, 1988, Extended Dataset",chile_mad_1988_esc_17_1_all.eps,chile_1988_esc17_1.R,True
+Figure A18,"Log Real GDP per Capita, 1988, Extended Dataset",chile_wb_1988_esc_25_1_all.eps,chile_1988_esc25_1.R,True
+Figure A18,"Log Real GDP per Capita, 1988, Extended Dataset",chile_mad_1988_esc_25_1_all.eps,chile_1988_esc25_1.R,True
+Figure A18,"Log Real GDP per Capita, 1988, Extended Dataset",chile_wb_1988_49_1_all.eps,chile_1988_49_1.R,True
+Figure A18,"Log Real GDP per Capita, 1988, Extended Dataset",chile_mad_1988_49_1_all.eps,chile_1988_49_1.R,True

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the associated article when using this replication archive."
+title: "Replication archive for Re-evaluating Augusto Pinochet's influence on Chile's economic growth"
+type: software
+authors:
+  - family-names: Ormeno
+    given-names: Hector
+  - family-names: Korolev
+    given-names: Ivan
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ormeno
+      given-names: Hector
+    - family-names: Korolev
+      given-names: Ivan
+  title: "Re-evaluating Augusto Pinochet's influence on Chile's economic growth"
+  journal: Economics Letters
+  volume: "261"
+  start: "112841"
+  year: 2026
+  doi: 10.1016/j.econlet.2026.112841
+version: 1.0.0
+date-released: 2026-10-25
+repository-code: "https://github.com/ikorolev89/chile-growth-replication"

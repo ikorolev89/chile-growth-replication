@@ -1,0 +1,34 @@
+"dataset","country","weight"
+"wb","Argentina",1.44851072654802e-08
+"wb","Bolivia",0.225016865938367
+"wb","Brazil",7.89664311851448e-09
+"wb","Colombia",8.07433579485484e-09
+"wb","Costa Rica",8.48213942941409e-09
+"wb","Dominican Republic",0.0351835172819447
+"wb","Ecuador",1.58465881041987e-09
+"wb","Guatemala",-4.93736072810273e-09
+"wb","Honduras",0.0956405184796803
+"wb","Mexico",-6.46356718250218e-09
+"wb","Nicaragua",-4.9261691148598e-09
+"wb","Panama",0.210148884306847
+"wb","Peru",0.206496409977427
+"wb","Portugal",7.33132295639561e-10
+"wb","Spain",-1.28004125998368e-09
+"wb","Uruguay",0.227513780363628
+"mad","Argentina",-1.50296848444459e-11
+"mad","Bolivia (Plurinational State of)",0.0125023891081467
+"mad","Brazil",-4.39762065207785e-11
+"mad","Colombia",5.03264440116277e-12
+"mad","Costa Rica",0.171639052375317
+"mad","Dominican Republic",0.123722341672228
+"mad","Ecuador",6.32832169265667e-12
+"mad","Guatemala",3.68320287120745e-11
+"mad","Honduras",0.455252652063885
+"mad","Mexico",-3.07623246696635e-12
+"mad","Nicaragua",4.47064112081159e-11
+"mad","Panama",0.104935894298814
+"mad","Peru",0.0312776294294494
+"mad","Portugal",-7.75462686071392e-12
+"mad","Spain",-2.14089660983434e-12
+"mad","Uruguay",0.100670041029338
+"mad","Venezuela (Bolivarian Republic of)",1.89335482761465e-12

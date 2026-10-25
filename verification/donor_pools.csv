@@ -1,0 +1,7 @@
+"dataset","pool","donors","years","rows","excluded"
+"wb","esc_17",16,55,935,"VEN"
+"wb","esc_25",24,55,1375,"VEN"
+"wb","49",42,55,2365,"BRB;CUB;DMA;JAM;LCA;SLV;VEN"
+"mad","esc_17",17,64,1152,""
+"mad","esc_25",25,64,1664,""
+"mad","49",43,64,2816,"BHS;BLZ;BMU;GUY;VCT;SUR"

@@ -1,0 +1,86 @@
+"dataset","country","weight"
+"wb","Argentina",4.41765324688194e-10
+"wb","Australia",1.66712056381288e-09
+"wb","Austria",1.22769036262656e-09
+"wb","Bahamas, The",0.0227652945398851
+"wb","Belgium",1.38877111141193e-09
+"wb","Belize",7.69195119588987e-10
+"wb","Bermuda",5.85750574837103e-10
+"wb","Bolivia",-1.2480441340278e-11
+"wb","Brazil",6.22684808514908e-10
+"wb","Canada",1.2629824379229e-09
+"wb","Colombia",9.53831614414689e-10
+"wb","Costa Rica",0.131296464796899
+"wb","Denmark",9.20574727671711e-10
+"wb","Dominican Republic",1.5663263110706e-09
+"wb","Ecuador",1.00595032108486e-09
+"wb","Finland",7.66801150462805e-10
+"wb","France",1.13720959079758e-09
+"wb","Greece",2.47015290298317e-10
+"wb","Guatemala",-1.36809362824251e-10
+"wb","Guyana",8.04794818881335e-11
+"wb","Haiti",-2.13959442443037e-10
+"wb","Honduras",-4.61606267147503e-12
+"wb","Italy",8.09090760504002e-10
+"wb","Luxembourg",8.03775501402134e-10
+"wb","Mexico",3.69356083820531e-10
+"wb","Netherlands",1.22490799338654e-09
+"wb","Nicaragua",6.98686963182391e-11
+"wb","Norway",4.00220042065529e-10
+"wb","Panama",6.37953284859505e-10
+"wb","Paraguay",0.475367541482208
+"wb","Peru",5.59307327609872e-10
+"wb","Portugal",1.31470874567156e-09
+"wb","Puerto Rico",6.12827346695888e-10
+"wb","Spain",1.85456566181876e-09
+"wb","St. Vincent and the Grenadines",0.00174236740247438
+"wb","Suriname",-4.79479401003332e-10
+"wb","Sweden",2.15484108391304e-09
+"wb","Trinidad and Tobago",-2.17941773388068e-10
+"wb","Turkiye",1.19300856583407e-09
+"wb","United Kingdom",1.15606900287524e-09
+"wb","United States",1.00142906613355e-09
+"wb","Uruguay",0.368828304036837
+"mad","Argentina",8.88003055455585e-10
+"mad","Australia",3.82002349710673e-09
+"mad","Austria",3.10825794688841e-09
+"mad","Barbados",6.29878040425028e-10
+"mad","Belgium",3.48448641587282e-09
+"mad","Bolivia (Plurinational State of)",2.35496691013324e-10
+"mad","Brazil",3.10253270529797e-10
+"mad","Canada",2.374932327311e-09
+"mad","Colombia",1.94055141008698e-09
+"mad","Costa Rica",0.0650949260932671
+"mad","Cuba",1.64045908949539e-09
+"mad","Denmark",2.75046227913585e-09
+"mad","Dominica",5.95390795823283e-10
+"mad","Dominican Republic",4.17535115747973e-09
+"mad","Ecuador",1.39896546428866e-09
+"mad","El Salvador",6.96601812339404e-11
+"mad","Finland",2.43967678051736e-09
+"mad","France",3.12741639049733e-09
+"mad","Greece",2.08318660944788e-09
+"mad","Guatemala",6.0834895217362e-11
+"mad","Haiti",9.61761281410802e-10
+"mad","Honduras",-7.35539294600816e-10
+"mad","Italy",1.67664689198588e-09
+"mad","Jamaica",1.59275737962319e-09
+"mad","Luxembourg",2.08226299543738e-09
+"mad","Mexico",1.94860246251417e-09
+"mad","Netherlands",2.85678037072626e-09
+"mad","Nicaragua",3.25751511829622e-10
+"mad","Norway",8.19894463408562e-10
+"mad","Panama",1.55338729422061e-09
+"mad","Paraguay",0.355096875221313
+"mad","Peru",1.26551818263727e-09
+"mad","Portugal",1.54575207001991e-09
+"mad","Puerto Rico",0.0019003624130592
+"mad","Saint Lucia",0.0177501819989561
+"mad","Spain",3.45967467050098e-09
+"mad","Sweden",5.52829868649806e-09
+"mad","Trinidad and Tobago",-2.81828285178444e-10
+"mad","Turkey",2.30334330463562e-09
+"mad","United Kingdom",3.08164810241302e-09
+"mad","United States",1.90560312633633e-09
+"mad","Uruguay",0.560157587103209
+"mad","Venezuela (Bolivarian Republic of)",1.44007609089163e-10

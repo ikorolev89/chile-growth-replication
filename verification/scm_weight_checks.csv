@@ -1,0 +1,628 @@
+spec,dataset,country,published,rerun,match
+1973_esc17_short,wb,Argentina,0.0,1.44851072654802e-08,True
+1973_esc17_short,wb,"Bahamas, The",0.0,0.0,True
+1973_esc17_short,wb,Bolivia,0.225,0.225016865938367,True
+1973_esc17_short,wb,Brazil,0.0,7.89664311851448e-09,True
+1973_esc17_short,wb,Colombia,0,8.07433579485484e-09,True
+1973_esc17_short,wb,"Congo, Dem. Rep.",0.0,0.0,True
+1973_esc17_short,wb,Costa Rica,0.0,8.48213942941409e-09,True
+1973_esc17_short,wb,Dominican Republic,0.035,0.0351835172819447,True
+1973_esc17_short,wb,Ecuador,0,1.58465881041987e-09,True
+1973_esc17_short,wb,Guatemala,0,-4.93736072810273e-09,True
+1973_esc17_short,wb,Guyana,0.0,0.0,True
+1973_esc17_short,wb,Haiti,0.0,0.0,True
+1973_esc17_short,wb,Honduras,0.096,0.0956405184796803,True
+1973_esc17_short,wb,Indonesia,0.0,0.0,True
+1973_esc17_short,wb,Mexico,0.0,-6.46356718250218e-09,True
+1973_esc17_short,wb,Nicaragua,0.0,-4.9261691148598e-09,True
+1973_esc17_short,wb,Panama,0.21,0.210148884306847,True
+1973_esc17_short,wb,Paraguay,0.0,0.0,True
+1973_esc17_short,wb,Peru,0.206,0.206496409977427,True
+1973_esc17_short,wb,Portugal,0.0,7.33132295639561e-10,True
+1973_esc17_short,wb,Spain,0,-1.28004125998368e-09,True
+1973_esc17_short,wb,St. Vincent and the Grenadines,0.0,0.0,True
+1973_esc17_short,wb,Suriname,0.0,0.0,True
+1973_esc17_short,wb,Trinidad and Tobago,0.0,0.0,True
+1973_esc17_short,wb,United States,0.0,0.0,True
+1973_esc17_short,wb,Uruguay,0.228,0.227513780363628,True
+1973_esc17_short,mad,Argentina,0,-1.50296848444459e-11,True
+1973_esc17_short,mad,Bolivia,0.013,0.0125023891081467,True
+1973_esc17_short,mad,Brazil,0,-4.39762065207785e-11,True
+1973_esc17_short,mad,China,0.0,0.0,True
+1973_esc17_short,mad,Colombia,0,5.03264440116277e-12,True
+1973_esc17_short,mad,Costa Rica,0.172,0.171639052375317,True
+1973_esc17_short,mad,Cuba,0.0,0.0,True
+1973_esc17_short,mad,D.R. of the Congo,0.0,0.0,True
+1973_esc17_short,mad,Dominica,0.0,0.0,True
+1973_esc17_short,mad,Dominican Republic,0.124,0.123722341672228,True
+1973_esc17_short,mad,Ecuador,0,6.32832169265667e-12,True
+1973_esc17_short,mad,Guatemala,0,3.68320287120745e-11,True
+1973_esc17_short,mad,Haiti,0.0,0.0,True
+1973_esc17_short,mad,Honduras,0.455,0.455252652063885,True
+1973_esc17_short,mad,Indonesia,0.0,0.0,True
+1973_esc17_short,mad,Jamaica,0.0,0.0,True
+1973_esc17_short,mad,Mexico,0.0,-3.07623246696635e-12,True
+1973_esc17_short,mad,Nicaragua,0.0,4.47064112081159e-11,True
+1973_esc17_short,mad,Panama,0.105,0.104935894298814,True
+1973_esc17_short,mad,Paraguay,0.0,0.0,True
+1973_esc17_short,mad,Peru,0.031,0.0312776294294494,True
+1973_esc17_short,mad,Portugal,0.0,-7.75462686071392e-12,True
+1973_esc17_short,mad,Puerto Rico,0.0,0.0,True
+1973_esc17_short,mad,Saint Lucia,0.0,0.0,True
+1973_esc17_short,mad,Spain,0,-2.14089660983434e-12,True
+1973_esc17_short,mad,Turkey,0.0,0.0,True
+1973_esc17_short,mad,United States,0.0,0.0,True
+1973_esc17_short,mad,Uruguay,0.101,0.100670041029338,True
+1973_esc17_short,mad,Venezuela (Bolivarian Republic of),0,1.89335482761465e-12,True
+1973_esc25_short,wb,Argentina,0.0,-1.66499898980259e-08,True
+1973_esc25_short,wb,Australia,0,-7.32181995743371e-09,True
+1973_esc25_short,wb,"Bahamas, The",0.0,0.0,True
+1973_esc25_short,wb,Bolivia,0.188,0.188385324324891,True
+1973_esc25_short,wb,Brazil,0.0,-5.45165930909494e-09,True
+1973_esc25_short,wb,Canada,0,-5.53687909146658e-09,True
+1973_esc25_short,wb,China,0,-4.38271928942353e-10,True
+1973_esc25_short,wb,Colombia,0,-8.24976931101798e-09,True
+1973_esc25_short,wb,"Congo, Dem. Rep.",0.04,0.0401224544127648,True
+1973_esc25_short,wb,Costa Rica,0.0,-1.22521604534016e-08,True
+1973_esc25_short,wb,Dominican Republic,0.026,0.0262612781000354,True
+1973_esc25_short,wb,Ecuador,0,-2.44772030055933e-09,True
+1973_esc25_short,wb,Guatemala,0,-1.11520640309186e-09,True
+1973_esc25_short,wb,Guyana,0.0,0.0,True
+1973_esc25_short,wb,Haiti,0.0,0.0,True
+1973_esc25_short,wb,Honduras,0.109,0.109196487440097,True
+1973_esc25_short,wb,Indonesia,0.0,-3.26468938348961e-09,True
+1973_esc25_short,wb,Mexico,0.0,3.14233678505385e-09,True
+1973_esc25_short,wb,Nicaragua,0.0,7.97346530524068e-10,True
+1973_esc25_short,wb,Panama,0.247,0.247481792260077,True
+1973_esc25_short,wb,Paraguay,0.0,0.0,True
+1973_esc25_short,wb,Peru,0.172,0.172443750695074,True
+1973_esc25_short,wb,Philippines,0,-4.98237996273936e-09,True
+1973_esc25_short,wb,Portugal,0.0,-9.85992536136198e-10,True
+1973_esc25_short,wb,South Africa,0,-5.33658190682946e-09,True
+1973_esc25_short,wb,Spain,0,6.72309365430343e-11,True
+1973_esc25_short,wb,St. Vincent and the Grenadines,0.0,0.0,True
+1973_esc25_short,wb,Suriname,0.0,0.0,True
+1973_esc25_short,wb,Trinidad and Tobago,0.0,0.0,True
+1973_esc25_short,wb,United States,0.0,8.21384523949176e-10,True
+1973_esc25_short,wb,Uruguay,0.216,0.216108981980175,True
+1973_esc25_short,mad,Argentina,0,3.07405971235125e-09,True
+1973_esc25_short,mad,Australia,0,1.59523538046844e-09,True
+1973_esc25_short,mad,Bolivia,0.013,0.0125023487294716,True
+1973_esc25_short,mad,Brazil,0,2.11951024219321e-10,True
+1973_esc25_short,mad,Canada,0,1.21474165884768e-09,True
+1973_esc25_short,mad,China,0.0,1.66273969353123e-10,True
+1973_esc25_short,mad,Colombia,0,1.28993758682179e-09,True
+1973_esc25_short,mad,Costa Rica,0.172,0.171638886928056,True
+1973_esc25_short,mad,Cuba,0.0,0.0,True
+1973_esc25_short,mad,D.R. of the Congo,0.0,2.1048686039233e-10,True
+1973_esc25_short,mad,Dominica,0.0,0.0,True
+1973_esc25_short,mad,Dominican Republic,0.124,0.123722288283952,True
+1973_esc25_short,mad,Ecuador,0,8.10203210258558e-10,True
+1973_esc25_short,mad,Guatemala,0,2.02716047155885e-09,True
+1973_esc25_short,mad,Haiti,0.0,0.0,True
+1973_esc25_short,mad,Honduras,0.455,0.455252647469842,True
+1973_esc25_short,mad,Indonesia,0.0,7.86245845202565e-10,True
+1973_esc25_short,mad,Jamaica,0.0,0.0,True
+1973_esc25_short,mad,Mexico,0.0,7.35433596837427e-10,True
+1973_esc25_short,mad,Nicaragua,0.0,7.83958248678763e-11,True
+1973_esc25_short,mad,Panama,0.105,0.104936137363691,True
+1973_esc25_short,mad,Paraguay,0.0,0.0,True
+1973_esc25_short,mad,Peru,0.031,0.0312774942631568,True
+1973_esc25_short,mad,Philippines,0,1.88174141450262e-09,True
+1973_esc25_short,mad,Portugal,0.0,1.6355736286491e-10,True
+1973_esc25_short,mad,Puerto Rico,0.0,0.0,True
+1973_esc25_short,mad,Saint Lucia,0.0,0.0,True
+1973_esc25_short,mad,South Africa,0,1.90846835770562e-09,True
+1973_esc25_short,mad,Spain,0,1.43553165616978e-10,True
+1973_esc25_short,mad,Turkey,0.0,0.0,True
+1973_esc25_short,mad,United States,0.0,5.76688475376095e-10,True
+1973_esc25_short,mad,Uruguay,0.101,0.100670178371011,True
+1973_esc25_short,mad,Venezuela (Bolivarian Republic of),0,1.71532085171691e-09,True
+1973_49_short,wb,Argentina,0.0,5.9378843453581e-09,True
+1973_49_short,wb,Australia,0,7.31917375349981e-09,True
+1973_49_short,wb,Austria,0,5.68588329425318e-09,True
+1973_49_short,wb,"Bahamas, The",0.038,0.0384052653327621,True
+1973_49_short,wb,Belgium,0,4.7838402182421e-09,True
+1973_49_short,wb,Belize,0,-9.61718832737859e-09,True
+1973_49_short,wb,Bermuda,0,-5.06616493154687e-10,True
+1973_49_short,wb,Bolivia,0.0,-1.03222748564661e-08,True
+1973_49_short,wb,Brazil,0.0,-3.85038192630127e-09,True
+1973_49_short,wb,Canada,0,1.10297863563198e-08,True
+1973_49_short,wb,Colombia,0,-3.57640711880022e-09,True
+1973_49_short,wb,"Congo, Dem. Rep.",0.0,0.0,True
+1973_49_short,wb,Costa Rica,0.0,-6.6848489101605e-09,True
+1973_49_short,wb,Denmark,0,-6.08204542484434e-10,True
+1973_49_short,wb,Dominican Republic,0.151,0.150805304857509,True
+1973_49_short,wb,Ecuador,0,-1.47383289161842e-10,True
+1973_49_short,wb,Finland,0,1.17130680418202e-08,True
+1973_49_short,wb,France,0,3.28915130955836e-09,True
+1973_49_short,wb,Greece,0,9.64802568708914e-10,True
+1973_49_short,wb,Guatemala,0,-5.75493866730194e-09,True
+1973_49_short,wb,Guyana,0.0,2.1607158828639e-09,True
+1973_49_short,wb,Haiti,0.219,0.219304408163213,True
+1973_49_short,wb,Honduras,0.0,-3.97217914421565e-09,True
+1973_49_short,wb,Indonesia,0.0,0.0,True
+1973_49_short,wb,Italy,0,-1.61712108072669e-09,True
+1973_49_short,wb,Luxembourg,0,9.46787456689501e-09,True
+1973_49_short,wb,Mexico,0.0,2.69166986448841e-11,True
+1973_49_short,wb,Netherlands,0,4.0825587980379e-09,True
+1973_49_short,wb,Nicaragua,0.0,2.68748487912543e-09,True
+1973_49_short,wb,Norway,0,-2.37861490992315e-09,True
+1973_49_short,wb,Panama,0.081,0.080910792184388,True
+1973_49_short,wb,Paraguay,0.0,-8.42867348037572e-09,True
+1973_49_short,wb,Peru,0.101,0.101475998940417,True
+1973_49_short,wb,Portugal,0.0,5.63750689675339e-11,True
+1973_49_short,wb,Puerto Rico,0,1.21081798858116e-09,True
+1973_49_short,wb,Spain,0,5.53479666944937e-10,True
+1973_49_short,wb,St. Vincent and the Grenadines,0.0,-8.48663159694672e-10,True
+1973_49_short,wb,Suriname,0.299,0.298818823748323,True
+1973_49_short,wb,Sweden,0,1.02543592825875e-08,True
+1973_49_short,wb,Trinidad and Tobago,0.096,0.0964905027111785,True
+1973_49_short,wb,Turkiye,0,-7.51112081943483e-09,True
+1973_49_short,wb,United Kingdom,0,-2.58723398540756e-09,True
+1973_49_short,wb,United States,0.0,-4.83444537164095e-09,True
+1973_49_short,wb,Uruguay,0.014,0.0137888960833795,True
+1973_49_short,mad,Argentina,0,-3.07319000319527e-10,True
+1973_49_short,mad,Australia,0,-1.33821093617446e-10,True
+1973_49_short,mad,Austria,0,-6.95111390957328e-11,True
+1973_49_short,mad,Barbados,0,-4.05673920343683e-11,True
+1973_49_short,mad,Belgium,0,-5.14066528154149e-11,True
+1973_49_short,mad,Bolivia,0.015,0.0153910937968448,True
+1973_49_short,mad,Brazil,0,-4.32908329158148e-10,True
+1973_49_short,mad,Canada,0,9.45958226767321e-11,True
+1973_49_short,mad,China,0.0,0.0,True
+1973_49_short,mad,Colombia,0,-2.71779613751641e-10,True
+1973_49_short,mad,Costa Rica,0.074,0.073550281947436,True
+1973_49_short,mad,Cuba,0.018,0.0183290972028204,True
+1973_49_short,mad,D.R. of the Congo,0.0,0.0,True
+1973_49_short,mad,Denmark,0,-1.73630676373927e-10,True
+1973_49_short,mad,Dominica,0.118,0.118074040182171,True
+1973_49_short,mad,Dominican Republic,0.0,-9.51429670368944e-12,True
+1973_49_short,mad,Ecuador,0,-1.93151344148616e-10,True
+1973_49_short,mad,El Salvador,0,7.63029008761723e-11,True
+1973_49_short,mad,Finland,0,-1.7086318382162e-10,True
+1973_49_short,mad,France,0,-2.45222568211851e-11,True
+1973_49_short,mad,Greece,0,3.15049290264078e-11,True
+1973_49_short,mad,Guatemala,0,-1.52306940218499e-10,True
+1973_49_short,mad,Haiti,0.0,-6.40198989947863e-11,True
+1973_49_short,mad,Honduras,0.407,0.407229209907599,True
+1973_49_short,mad,Indonesia,0.0,0.0,True
+1973_49_short,mad,Italy,0,-2.52180098336343e-11,True
+1973_49_short,mad,Jamaica,0.0,-1.35879952456212e-10,True
+1973_49_short,mad,Luxembourg,0,-2.10390818150942e-10,True
+1973_49_short,mad,Mexico,0.0,1.42063830330854e-11,True
+1973_49_short,mad,Netherlands,0,-8.97040558635733e-11,True
+1973_49_short,mad,Nicaragua,0.0,2.05480231558011e-10,True
+1973_49_short,mad,Norway,0,-6.9804428681821e-11,True
+1973_49_short,mad,Panama,0.029,0.0291113411019197,True
+1973_49_short,mad,Paraguay,0.0,-1.27640674431844e-10,True
+1973_49_short,mad,Peru,0.079,0.0786023555219287,True
+1973_49_short,mad,Portugal,0.0,3.82089840479431e-11,True
+1973_49_short,mad,Puerto Rico,0.0,3.18474320748816e-11,True
+1973_49_short,mad,Saint Lucia,0.0,-2.24646847807694e-10,True
+1973_49_short,mad,Spain,0,9.60604371772059e-11,True
+1973_49_short,mad,Sweden,0,-9.01102902342537e-11,True
+1973_49_short,mad,Trinidad and Tobago,0,-1.02421761010566e-10,True
+1973_49_short,mad,Turkey,0.167,0.167216070527325,True
+1973_49_short,mad,United Kingdom,0,-2.03525730599596e-10,True
+1973_49_short,mad,United States,0.0,4.004894468767e-11,True
+1973_49_short,mad,Uruguay,0.092,0.0924965127300204,True
+1973_49_short,mad,Venezuela (Bolivarian Republic of),0,-1.71565293564162e-10,True
+1988_esc17_short,wb,Argentina,0.0,1.26786646555488e-08,True
+1988_esc17_short,wb,"Bahamas, The",0.0,0.0,True
+1988_esc17_short,wb,Bolivia,0.0,9.70695376920689e-09,True
+1988_esc17_short,wb,Brazil,0.227,0.227371438767312,True
+1988_esc17_short,wb,Colombia,0,2.98123327341858e-09,True
+1988_esc17_short,wb,"Congo, Dem. Rep.",0.0,0.0,True
+1988_esc17_short,wb,Costa Rica,0.0,1.56318735557145e-08,True
+1988_esc17_short,wb,Dominican Republic,0.0,4.80285047782498e-09,True
+1988_esc17_short,wb,Ecuador,0,6.27904294183639e-09,True
+1988_esc17_short,wb,Guatemala,0,1.84650346856023e-08,True
+1988_esc17_short,wb,Guyana,0.0,0.0,True
+1988_esc17_short,wb,Haiti,0.0,0.0,True
+1988_esc17_short,wb,Honduras,0.0,1.29369316214545e-08,True
+1988_esc17_short,wb,Indonesia,0.0,0.0,True
+1988_esc17_short,wb,Mexico,0.324,0.323586613741824,True
+1988_esc17_short,wb,Nicaragua,0.0,2.93785756294918e-09,True
+1988_esc17_short,wb,Panama,0.008,0.00783137579099532,True
+1988_esc17_short,wb,Paraguay,0.0,0.0,True
+1988_esc17_short,wb,Peru,0.0,-3.99517392591706e-09,True
+1988_esc17_short,wb,Portugal,0.159,0.158904695359411,True
+1988_esc17_short,wb,Spain,0,3.37847542767864e-09,True
+1988_esc17_short,wb,St. Vincent and the Grenadines,0.0,0.0,True
+1988_esc17_short,wb,Suriname,0.0,0.0,True
+1988_esc17_short,wb,Trinidad and Tobago,0.0,0.0,True
+1988_esc17_short,wb,United States,0.0,0.0,True
+1988_esc17_short,wb,Uruguay,0.282,0.282305790529285,True
+1988_esc17_short,mad,Argentina,0,3.30321989049911e-09,True
+1988_esc17_short,mad,Bolivia,0.0,1.98582973044733e-09,True
+1988_esc17_short,mad,Brazil,0,7.75100046939905e-10,True
+1988_esc17_short,mad,China,0.0,0.0,True
+1988_esc17_short,mad,Colombia,0,9.84117173256993e-10,True
+1988_esc17_short,mad,Costa Rica,0.0,2.16332971819606e-09,True
+1988_esc17_short,mad,Cuba,0.0,0.0,True
+1988_esc17_short,mad,D.R. of the Congo,0.0,0.0,True
+1988_esc17_short,mad,Dominica,0.0,0.0,True
+1988_esc17_short,mad,Dominican Republic,0.0,1.9605031448813e-09,True
+1988_esc17_short,mad,Ecuador,0,1.50072015355451e-09,True
+1988_esc17_short,mad,Guatemala,0,1.60013535480218e-09,True
+1988_esc17_short,mad,Haiti,0.0,0.0,True
+1988_esc17_short,mad,Honduras,0.0,1.68071144698189e-09,True
+1988_esc17_short,mad,Indonesia,0.0,0.0,True
+1988_esc17_short,mad,Jamaica,0.0,0.0,True
+1988_esc17_short,mad,Mexico,0.261,0.261228995714108,True
+1988_esc17_short,mad,Nicaragua,0.0,9.50786212284846e-10,True
+1988_esc17_short,mad,Panama,0.0,-1.14302843003459e-10,True
+1988_esc17_short,mad,Paraguay,0.0,0.0,True
+1988_esc17_short,mad,Peru,0.0,1.44541746566054e-09,True
+1988_esc17_short,mad,Portugal,0.14,0.140295928169793,True
+1988_esc17_short,mad,Puerto Rico,0.0,0.0,True
+1988_esc17_short,mad,Saint Lucia,0.0,0.0,True
+1988_esc17_short,mad,Spain,0,1.90990483837439e-09,True
+1988_esc17_short,mad,Turkey,0.0,0.0,True
+1988_esc17_short,mad,United States,0.0,0.0,True
+1988_esc17_short,mad,Uruguay,0.598,0.598475054190163,True
+1988_esc17_short,mad,Venezuela (Bolivarian Republic of),0,1.77853886193615e-09,True
+1988_esc25_short,wb,Argentina,0.0,-4.95150780346494e-11,True
+1988_esc25_short,wb,Australia,0,-3.55467550574359e-11,True
+1988_esc25_short,wb,"Bahamas, The",0.0,0.0,True
+1988_esc25_short,wb,Bolivia,0.0,-8.94941575127035e-12,True
+1988_esc25_short,wb,Brazil,0.0,-1.4323297934914e-11,True
+1988_esc25_short,wb,Canada,0,-3.27028185369433e-11,True
+1988_esc25_short,wb,China,0,-7.79930613973261e-13,True
+1988_esc25_short,wb,Colombia,0,-2.10346295739227e-11,True
+1988_esc25_short,wb,"Congo, Dem. Rep.",0.0,-2.35898823945353e-11,True
+1988_esc25_short,wb,Costa Rica,0.0,-3.1503613924975e-11,True
+1988_esc25_short,wb,Dominican Republic,0.0,-2.72749869873288e-11,True
+1988_esc25_short,wb,Ecuador,0,-3.38010826704358e-11,True
+1988_esc25_short,wb,Guatemala,0,-7.94508928599229e-12,True
+1988_esc25_short,wb,Guyana,0.0,0.0,True
+1988_esc25_short,wb,Haiti,0.0,0.0,True
+1988_esc25_short,wb,Honduras,0.0,-3.0076382255373e-11,True
+1988_esc25_short,wb,Indonesia,0.376,0.375716957153948,True
+1988_esc25_short,wb,Mexico,0.047,0.0466978063911321,True
+1988_esc25_short,wb,Nicaragua,0.0,-9.04471900285441e-12,True
+1988_esc25_short,wb,Panama,0.0,-1.22701297989938e-12,True
+1988_esc25_short,wb,Paraguay,0.0,0.0,True
+1988_esc25_short,wb,Peru,0.0,-2.23210937791328e-11,True
+1988_esc25_short,wb,Philippines,0,-9.24930613226895e-12,True
+1988_esc25_short,wb,Portugal,0.0,-1.60100564746995e-11,True
+1988_esc25_short,wb,South Africa,0,-3.95898266314427e-11,True
+1988_esc25_short,wb,Spain,0,-4.915885185557e-11,True
+1988_esc25_short,wb,St. Vincent and the Grenadines,0.0,0.0,True
+1988_esc25_short,wb,Suriname,0.0,0.0,True
+1988_esc25_short,wb,Trinidad and Tobago,0.0,0.0,True
+1988_esc25_short,wb,United States,0.0,-2.84465018170624e-11,True
+1988_esc25_short,wb,Uruguay,0.578,0.577585236947042,True
+1988_esc25_short,mad,Argentina,0,4.99587886840548e-09,True
+1988_esc25_short,mad,Australia,0,3.34444227917107e-09,True
+1988_esc25_short,mad,Bolivia,0.0,2.60574389676268e-09,True
+1988_esc25_short,mad,Brazil,0,1.83791990002714e-09,True
+1988_esc25_short,mad,Canada,0,3.38956931694477e-09,True
+1988_esc25_short,mad,China,0.001,0.00107103850410057,True
+1988_esc25_short,mad,Colombia,0,1.60895834599019e-09,True
+1988_esc25_short,mad,Costa Rica,0.0,5.98204229220719e-09,True
+1988_esc25_short,mad,Cuba,0.0,0.0,True
+1988_esc25_short,mad,D.R. of the Congo,0.0,2.94029171724741e-09,True
+1988_esc25_short,mad,Dominica,0.0,0.0,True
+1988_esc25_short,mad,Dominican Republic,0.0,4.23257192376052e-09,True
+1988_esc25_short,mad,Ecuador,0,3.9530163390418e-09,True
+1988_esc25_short,mad,Guatemala,0,3.0625986690707e-09,True
+1988_esc25_short,mad,Haiti,0.0,0.0,True
+1988_esc25_short,mad,Honduras,0.0,4.75097245439197e-09,True
+1988_esc25_short,mad,Indonesia,0.229,0.228653110470507,True
+1988_esc25_short,mad,Jamaica,0.0,0.0,True
+1988_esc25_short,mad,Mexico,0.182,0.182358267593969,True
+1988_esc25_short,mad,Nicaragua,0.0,1.41335550877514e-09,True
+1988_esc25_short,mad,Panama,0.0,-5.7037157006165e-10,True
+1988_esc25_short,mad,Paraguay,0.0,0.0,True
+1988_esc25_short,mad,Peru,0.0,2.23567147251229e-09,True
+1988_esc25_short,mad,Philippines,0,2.74076209576148e-09,True
+1988_esc25_short,mad,Portugal,0.0,2.51187738653957e-10,True
+1988_esc25_short,mad,Puerto Rico,0.0,0.0,True
+1988_esc25_short,mad,Saint Lucia,0.0,0.0,True
+1988_esc25_short,mad,South Africa,0,5.37370848401299e-09,True
+1988_esc25_short,mad,Spain,0,3.44006367098013e-09,True
+1988_esc25_short,mad,Turkey,0.0,0.0,True
+1988_esc25_short,mad,United States,0.0,2.26892693997295e-09,True
+1988_esc25_short,mad,Uruguay,0.588,0.5879175213373,True
+1988_esc25_short,mad,Venezuela (Bolivarian Republic of),0,2.23247084567099e-09,True
+1988_49_short,wb,Argentina,0.0,4.41765324688194e-10,True
+1988_49_short,wb,Australia,0,1.66712056381288e-09,True
+1988_49_short,wb,Austria,0,1.22769036262656e-09,True
+1988_49_short,wb,"Bahamas, The",0.023,0.0227652945398851,True
+1988_49_short,wb,Belgium,0,1.38877111141193e-09,True
+1988_49_short,wb,Belize,0,7.69195119588987e-10,True
+1988_49_short,wb,Bermuda,0,5.85750574837103e-10,True
+1988_49_short,wb,Bolivia,0.0,-1.2480441340278e-11,True
+1988_49_short,wb,Brazil,0.0,6.22684808514908e-10,True
+1988_49_short,wb,Canada,0,1.2629824379229e-09,True
+1988_49_short,wb,Colombia,0,9.53831614414689e-10,True
+1988_49_short,wb,"Congo, Dem. Rep.",0.0,0.0,True
+1988_49_short,wb,Costa Rica,0.131,0.131296464796899,True
+1988_49_short,wb,Denmark,0,9.20574727671711e-10,True
+1988_49_short,wb,Dominican Republic,0.0,1.5663263110706e-09,True
+1988_49_short,wb,Ecuador,0,1.00595032108486e-09,True
+1988_49_short,wb,Finland,0,7.66801150462805e-10,True
+1988_49_short,wb,France,0,1.13720959079758e-09,True
+1988_49_short,wb,Greece,0,2.47015290298317e-10,True
+1988_49_short,wb,Guatemala,0,-1.36809362824251e-10,True
+1988_49_short,wb,Guyana,0.0,8.04794818881335e-11,True
+1988_49_short,wb,Haiti,0.0,-2.13959442443037e-10,True
+1988_49_short,wb,Honduras,0.0,-4.61606267147503e-12,True
+1988_49_short,wb,Indonesia,0.0,0.0,True
+1988_49_short,wb,Italy,0,8.09090760504002e-10,True
+1988_49_short,wb,Luxembourg,0,8.03775501402134e-10,True
+1988_49_short,wb,Mexico,0.0,3.69356083820531e-10,True
+1988_49_short,wb,Netherlands,0,1.22490799338654e-09,True
+1988_49_short,wb,Nicaragua,0.0,6.98686963182391e-11,True
+1988_49_short,wb,Norway,0,4.00220042065529e-10,True
+1988_49_short,wb,Panama,0.0,6.37953284859505e-10,True
+1988_49_short,wb,Paraguay,0.475,0.475367541482208,True
+1988_49_short,wb,Peru,0.0,5.59307327609872e-10,True
+1988_49_short,wb,Portugal,0.0,1.31470874567156e-09,True
+1988_49_short,wb,Puerto Rico,0,6.12827346695888e-10,True
+1988_49_short,wb,Spain,0,1.85456566181876e-09,True
+1988_49_short,wb,St. Vincent and the Grenadines,0.002,0.00174236740247438,True
+1988_49_short,wb,Suriname,0.0,-4.79479401003332e-10,True
+1988_49_short,wb,Sweden,0,2.15484108391304e-09,True
+1988_49_short,wb,Trinidad and Tobago,0.0,-2.17941773388068e-10,True
+1988_49_short,wb,Turkiye,0,1.19300856583407e-09,True
+1988_49_short,wb,United Kingdom,0,1.15606900287524e-09,True
+1988_49_short,wb,United States,0.0,1.00142906613355e-09,True
+1988_49_short,wb,Uruguay,0.369,0.368828304036837,True
+1988_49_short,mad,Argentina,0,8.88003055455585e-10,True
+1988_49_short,mad,Australia,0,3.82002349710673e-09,True
+1988_49_short,mad,Austria,0,3.10825794688841e-09,True
+1988_49_short,mad,Barbados,0,6.29878040425028e-10,True
+1988_49_short,mad,Belgium,0,3.48448641587282e-09,True
+1988_49_short,mad,Bolivia,0.0,2.35496691013324e-10,True
+1988_49_short,mad,Brazil,0,3.10253270529797e-10,True
+1988_49_short,mad,Canada,0,2.374932327311e-09,True
+1988_49_short,mad,China,0.0,0.0,True
+1988_49_short,mad,Colombia,0,1.94055141008698e-09,True
+1988_49_short,mad,Costa Rica,0.065,0.0650949260932671,True
+1988_49_short,mad,Cuba,0.0,1.64045908949539e-09,True
+1988_49_short,mad,D.R. of the Congo,0.0,0.0,True
+1988_49_short,mad,Denmark,0,2.75046227913585e-09,True
+1988_49_short,mad,Dominica,0.0,5.95390795823283e-10,True
+1988_49_short,mad,Dominican Republic,0.0,4.17535115747973e-09,True
+1988_49_short,mad,Ecuador,0,1.39896546428866e-09,True
+1988_49_short,mad,El Salvador,0,6.96601812339404e-11,True
+1988_49_short,mad,Finland,0,2.43967678051736e-09,True
+1988_49_short,mad,France,0,3.12741639049733e-09,True
+1988_49_short,mad,Greece,0,2.08318660944788e-09,True
+1988_49_short,mad,Guatemala,0,6.0834895217362e-11,True
+1988_49_short,mad,Haiti,0.0,9.61761281410802e-10,True
+1988_49_short,mad,Honduras,0.0,-7.35539294600816e-10,True
+1988_49_short,mad,Indonesia,0.0,0.0,True
+1988_49_short,mad,Italy,0,1.67664689198588e-09,True
+1988_49_short,mad,Jamaica,0.0,1.59275737962319e-09,True
+1988_49_short,mad,Luxembourg,0,2.08226299543738e-09,True
+1988_49_short,mad,Mexico,0.0,1.94860246251417e-09,True
+1988_49_short,mad,Netherlands,0,2.85678037072626e-09,True
+1988_49_short,mad,Nicaragua,0.0,3.25751511829622e-10,True
+1988_49_short,mad,Norway,0,8.19894463408562e-10,True
+1988_49_short,mad,Panama,0.0,1.55338729422061e-09,True
+1988_49_short,mad,Paraguay,0.355,0.355096875221313,True
+1988_49_short,mad,Peru,0.0,1.26551818263727e-09,True
+1988_49_short,mad,Portugal,0.0,1.54575207001991e-09,True
+1988_49_short,mad,Puerto Rico,0.002,0.0019003624130592,True
+1988_49_short,mad,Saint Lucia,0.018,0.0177501819989561,True
+1988_49_short,mad,Spain,0,3.45967467050098e-09,True
+1988_49_short,mad,Sweden,0,5.52829868649806e-09,True
+1988_49_short,mad,Trinidad and Tobago,0,-2.81828285178444e-10,True
+1988_49_short,mad,Turkey,0.0,2.30334330463562e-09,True
+1988_49_short,mad,United Kingdom,0,3.08164810241302e-09,True
+1988_49_short,mad,United States,0.0,1.90560312633633e-09,True
+1988_49_short,mad,Uruguay,0.0,0.560157587103209,False
+1988_49_short,mad,Venezuela (Bolivarian Republic of),0,1.44007609089163e-10,True
+1988_esc17_long,wb,Argentina,0.113,0.113281920801383,True
+1988_esc17_long,wb,"Bahamas, The",0.0,0.0,True
+1988_esc17_long,wb,Bolivia,0.0,8.21475137790348e-10,True
+1988_esc17_long,wb,Brazil,0.0,1.44298480936698e-10,True
+1988_esc17_long,wb,Colombia,0,2.00639221851436e-10,True
+1988_esc17_long,wb,"Congo, Dem. Rep.",0.0,0.0,True
+1988_esc17_long,wb,Costa Rica,0.0,1.62367159852287e-09,True
+1988_esc17_long,wb,Dominican Republic,0.0,-7.66491421096605e-10,True
+1988_esc17_long,wb,Ecuador,0,-2.8376646296353e-10,True
+1988_esc17_long,wb,Guatemala,0,1.54877071767347e-10,True
+1988_esc17_long,wb,Guyana,0.0,0.0,True
+1988_esc17_long,wb,Haiti,0.0,0.0,True
+1988_esc17_long,wb,Honduras,0.28,0.279890865450388,True
+1988_esc17_long,wb,Indonesia,0.0,0.0,True
+1988_esc17_long,wb,Mexico,0.0,-1.62347991820974e-10,True
+1988_esc17_long,wb,Nicaragua,0.0,4.79572421174275e-10,True
+1988_esc17_long,wb,Panama,0.058,0.0582646174163443,True
+1988_esc17_long,wb,Paraguay,0.0,0.0,True
+1988_esc17_long,wb,Peru,0.16,0.160283035184246,True
+1988_esc17_long,wb,Portugal,0.0,6.28905855705266e-10,True
+1988_esc17_long,wb,Spain,0,2.8642654539035e-09,True
+1988_esc17_long,wb,St. Vincent and the Grenadines,0.0,0.0,True
+1988_esc17_long,wb,Suriname,0.0,0.0,True
+1988_esc17_long,wb,Trinidad and Tobago,0.0,0.0,True
+1988_esc17_long,wb,United States,0.0,0.0,True
+1988_esc17_long,wb,Uruguay,0.388,0.388279555442,True
+1988_esc17_long,mad,Argentina,0,-1.88821707754382e-09,True
+1988_esc17_long,mad,Bolivia,0.0,-4.03766415946987e-09,True
+1988_esc17_long,mad,Brazil,0,-4.06719893964734e-09,True
+1988_esc17_long,mad,China,0.0,0.0,True
+1988_esc17_long,mad,Colombia,0,-3.12251451631533e-09,True
+1988_esc17_long,mad,Costa Rica,0.0,-3.43331447517167e-09,True
+1988_esc17_long,mad,Cuba,0.0,0.0,True
+1988_esc17_long,mad,D.R. of the Congo,0.0,0.0,True
+1988_esc17_long,mad,Dominica,0.0,0.0,True
+1988_esc17_long,mad,Dominican Republic,0.0,-5.3363570864145e-09,True
+1988_esc17_long,mad,Ecuador,0,-4.23914962173504e-09,True
+1988_esc17_long,mad,Guatemala,0,-3.987392785934e-09,True
+1988_esc17_long,mad,Haiti,0.0,0.0,True
+1988_esc17_long,mad,Honduras,0.0,-2.33352779641942e-09,True
+1988_esc17_long,mad,Indonesia,0.0,0.0,True
+1988_esc17_long,mad,Jamaica,0.0,0.0,True
+1988_esc17_long,mad,Mexico,0.0,-3.34699852548978e-09,True
+1988_esc17_long,mad,Nicaragua,0.087,0.0871320039176864,True
+1988_esc17_long,mad,Panama,0.0,-2.20284093789914e-09,True
+1988_esc17_long,mad,Paraguay,0.0,0.0,True
+1988_esc17_long,mad,Peru,0.409,0.40920787383511,True
+1988_esc17_long,mad,Portugal,0.0,-2.47936754953157e-09,True
+1988_esc17_long,mad,Puerto Rico,0.0,0.0,True
+1988_esc17_long,mad,Saint Lucia,0.0,0.0,True
+1988_esc17_long,mad,Spain,0,-2.87940989034735e-09,True
+1988_esc17_long,mad,Turkey,0.0,0.0,True
+1988_esc17_long,mad,United States,0.0,0.0,True
+1988_esc17_long,mad,Uruguay,0.504,0.503660165705846,True
+1988_esc17_long,mad,Venezuela (Bolivarian Republic of),0,-1.01637146949216e-10,True
+1988_esc25_long,wb,Argentina,0.0,-1.20159536983904e-09,True
+1988_esc25_long,wb,Australia,0,2.49127169364004e-10,True
+1988_esc25_long,wb,"Bahamas, The",0.0,0.0,True
+1988_esc25_long,wb,Bolivia,0.0,-4.93781598259512e-09,True
+1988_esc25_long,wb,Brazil,0.0,-1.18451510363685e-09,True
+1988_esc25_long,wb,Canada,0,-9.09248483658674e-10,True
+1988_esc25_long,wb,China,0,6.30287149732363e-10,True
+1988_esc25_long,wb,Colombia,0,-2.57172370572847e-10,True
+1988_esc25_long,wb,"Congo, Dem. Rep.",0.252,0.252417039262911,True
+1988_esc25_long,wb,Costa Rica,0.0,-2.97270801160397e-09,True
+1988_esc25_long,wb,Dominican Republic,0.0,-1.0828575523866e-09,True
+1988_esc25_long,wb,Ecuador,0,-9.35305209608309e-10,True
+1988_esc25_long,wb,Guatemala,0,-3.38902182567565e-09,True
+1988_esc25_long,wb,Guyana,0.0,0.0,True
+1988_esc25_long,wb,Haiti,0.0,0.0,True
+1988_esc25_long,wb,Honduras,0.032,0.0319654633314819,True
+1988_esc25_long,wb,Indonesia,0.0,9.94751880756457e-10,True
+1988_esc25_long,wb,Mexico,0.0,-8.04583112524474e-10,True
+1988_esc25_long,wb,Nicaragua,0.0,-6.9528386351031e-10,True
+1988_esc25_long,wb,Panama,0.274,0.274328859278229,True
+1988_esc25_long,wb,Paraguay,0.0,0.0,True
+1988_esc25_long,wb,Peru,0.0,-5.17325719878816e-10,True
+1988_esc25_long,wb,Philippines,0,-2.00216404550618e-09,True
+1988_esc25_long,wb,Portugal,0.0,-1.1569829303575e-09,True
+1988_esc25_long,wb,South Africa,0,-4.8496500966264e-10,True
+1988_esc25_long,wb,Spain,0,-2.3964978978934e-09,True
+1988_esc25_long,wb,St. Vincent and the Grenadines,0.0,0.0,True
+1988_esc25_long,wb,Suriname,0.0,0.0,True
+1988_esc25_long,wb,Trinidad and Tobago,0.0,0.0,True
+1988_esc25_long,wb,United States,0.056,0.056269703010504,True
+1988_esc25_long,wb,Uruguay,0.385,0.385018958171809,True
+1988_esc25_long,mad,Argentina,0,-2.94776824168699e-11,True
+1988_esc25_long,mad,Australia,0,-9.05256705820973e-11,True
+1988_esc25_long,mad,Bolivia,0.0,-5.92036702774482e-11,True
+1988_esc25_long,mad,Brazil,0,-7.28833554990025e-11,True
+1988_esc25_long,mad,Canada,0,-1.19619973942855e-10,True
+1988_esc25_long,mad,China,0.0,-2.19180219864063e-10,True
+1988_esc25_long,mad,Colombia,0,-1.28093932992635e-10,True
+1988_esc25_long,mad,Costa Rica,0.0,-4.87090795092973e-11,True
+1988_esc25_long,mad,Cuba,0.0,0.0,True
+1988_esc25_long,mad,D.R. of the Congo,0.399,0.398766765923146,True
+1988_esc25_long,mad,Dominica,0.0,0.0,True
+1988_esc25_long,mad,Dominican Republic,0.0,-1.74183799930781e-10,True
+1988_esc25_long,mad,Ecuador,0,-1.14092080569287e-10,True
+1988_esc25_long,mad,Guatemala,0,-6.25997744021927e-11,True
+1988_esc25_long,mad,Haiti,0.0,0.0,True
+1988_esc25_long,mad,Honduras,0.0,-7.89638925872096e-11,True
+1988_esc25_long,mad,Indonesia,0.0,-2.29068083557667e-10,True
+1988_esc25_long,mad,Jamaica,0.0,0.0,True
+1988_esc25_long,mad,Mexico,0.0,-6.77115498535046e-11,True
+1988_esc25_long,mad,Nicaragua,0.0,3.42228195559248e-11,True
+1988_esc25_long,mad,Panama,0.275,0.275005983215612,True
+1988_esc25_long,mad,Paraguay,0.0,0.0,True
+1988_esc25_long,mad,Peru,0.0,0.000398955136753118,True
+1988_esc25_long,mad,Philippines,0,-4.71831342379835e-11,True
+1988_esc25_long,mad,Portugal,0.0,-3.30817116264357e-11,True
+1988_esc25_long,mad,Puerto Rico,0.0,0.0,True
+1988_esc25_long,mad,Saint Lucia,0.0,0.0,True
+1988_esc25_long,mad,South Africa,0,-4.67111265548067e-12,True
+1988_esc25_long,mad,Spain,0,-3.40423219423046e-11,True
+1988_esc25_long,mad,Turkey,0.0,0.0,True
+1988_esc25_long,mad,United States,0.0,-1.02036971069199e-10,True
+1988_esc25_long,mad,Uruguay,0.326,0.325828297363911,True
+1988_esc25_long,mad,Venezuela (Bolivarian Republic of),0,4.176277891596e-11,True
+1988_49_long,wb,Argentina,0.0,-1.71054704457413e-10,True
+1988_49_long,wb,Australia,0,-7.21490351434535e-10,True
+1988_49_long,wb,Austria,0,-1.4565757968424e-09,True
+1988_49_long,wb,"Bahamas, The",0.404,0.404232590061601,True
+1988_49_long,wb,Belgium,0,-9.66040910169953e-10,True
+1988_49_long,wb,Belize,0,-9.41512311361041e-10,True
+1988_49_long,wb,Bermuda,0,-1.93984298389339e-09,True
+1988_49_long,wb,Bolivia,0.046,0.0457546861359144,True
+1988_49_long,wb,Brazil,0.0,-1.01408654208164e-09,True
+1988_49_long,wb,Canada,0,-1.20198940292338e-09,True
+1988_49_long,wb,Colombia,0,-9.20756813253162e-10,True
+1988_49_long,wb,"Congo, Dem. Rep.",0.0,0.0,True
+1988_49_long,wb,Costa Rica,0.0,-7.94811180842308e-10,True
+1988_49_long,wb,Denmark,0,-1.43853894565966e-09,True
+1988_49_long,wb,Dominican Republic,0.0,-2.54218343547694e-10,True
+1988_49_long,wb,Ecuador,0,-2.03840243102226e-09,True
+1988_49_long,wb,Finland,0,-1.21145703625881e-09,True
+1988_49_long,wb,France,0,-1.04848788576387e-09,True
+1988_49_long,wb,Greece,0,-3.19326108939042e-10,True
+1988_49_long,wb,Guatemala,0,-2.22975281021036e-10,True
+1988_49_long,wb,Guyana,0.181,0.18058895328289,True
+1988_49_long,wb,Haiti,0.0,-5.40830172457923e-10,True
+1988_49_long,wb,Honduras,0.0,-1.07010436345947e-09,True
+1988_49_long,wb,Indonesia,0.0,0.0,True
+1988_49_long,wb,Italy,0,-1.47947939050696e-09,True
+1988_49_long,wb,Luxembourg,0,-1.97745976261204e-10,True
+1988_49_long,wb,Mexico,0.0,-1.02882325582884e-09,True
+1988_49_long,wb,Netherlands,0,-1.09019091137816e-09,True
+1988_49_long,wb,Nicaragua,0.006,0.00564562323061366,True
+1988_49_long,wb,Norway,0,-2.66332617677902e-09,True
+1988_49_long,wb,Panama,0.046,0.0460319958234593,True
+1988_49_long,wb,Paraguay,0.0,-1.52773176545919e-09,True
+1988_49_long,wb,Peru,0.0,4.66414376930095e-10,True
+1988_49_long,wb,Portugal,0.024,0.0242954818771173,True
+1988_49_long,wb,Puerto Rico,0,-5.56579478563004e-10,True
+1988_49_long,wb,Spain,0,-6.66922798558671e-10,True
+1988_49_long,wb,St. Vincent and the Grenadines,0.004,0.00372938604797573,True
+1988_49_long,wb,Suriname,0.0,-2.46771658704485e-09,True
+1988_49_long,wb,Sweden,0,-1.03127918301971e-09,True
+1988_49_long,wb,Trinidad and Tobago,0.0,-4.61612489357264e-11,True
+1988_49_long,wb,Turkiye,0,-2.13458155886474e-09,True
+1988_49_long,wb,United Kingdom,0,-1.05452758746543e-09,True
+1988_49_long,wb,United States,0.0,-1.73875225333417e-09,True
+1988_49_long,wb,Uruguay,0.29,0.289721319031194,True
+1988_49_long,mad,Argentina,0,-1.19049329733048e-09,True
+1988_49_long,mad,Australia,0,-1.59360348707995e-09,True
+1988_49_long,mad,Austria,0,-9.106358378863e-09,True
+1988_49_long,mad,Barbados,0,-6.94212198734487e-09,True
+1988_49_long,mad,Belgium,0,-5.96206104542321e-09,True
+1988_49_long,mad,Bolivia,0.0,-8.75518607802677e-10,True
+1988_49_long,mad,Brazil,0,-1.32652713224243e-08,True
+1988_49_long,mad,Canada,0,-3.21108835966877e-09,True
+1988_49_long,mad,China,0.0,0.0,True
+1988_49_long,mad,Colombia,0,-3.67911392301668e-09,True
+1988_49_long,mad,Costa Rica,0.0,-4.66577860999447e-09,True
+1988_49_long,mad,Cuba,0.0,-4.74901664366897e-10,True
+1988_49_long,mad,D.R. of the Congo,0.0,0.0,True
+1988_49_long,mad,Denmark,0,-1.94417607438723e-09,True
+1988_49_long,mad,Dominica,0.0,-6.46053888569972e-09,True
+1988_49_long,mad,Dominican Republic,0.0,-8.4254196545123e-09,True
+1988_49_long,mad,Ecuador,0,-6.08087440584441e-09,True
+1988_49_long,mad,El Salvador,0,6.6553712971662e-10,True
+1988_49_long,mad,Finland,0,-6.69743491625068e-09,True
+1988_49_long,mad,France,0,-5.80412562635449e-09,True
+1988_49_long,mad,Greece,0,-6.59307015224716e-09,True
+1988_49_long,mad,Guatemala,0,-5.60461985579944e-09,True
+1988_49_long,mad,Haiti,0.268,0.267596777314919,True
+1988_49_long,mad,Honduras,0.0,-1.78421775781338e-09,True
+1988_49_long,mad,Indonesia,0.0,0.0,True
+1988_49_long,mad,Italy,0,-5.77957842195049e-09,True
+1988_49_long,mad,Jamaica,0.143,0.142837693065438,True
+1988_49_long,mad,Luxembourg,0,-1.52502649859567e-09,True
+1988_49_long,mad,Mexico,0.0,-7.18469728089211e-09,True
+1988_49_long,mad,Netherlands,0,-3.86143302088736e-09,True
+1988_49_long,mad,Nicaragua,0.0,2.01038711590198e-09,True
+1988_49_long,mad,Norway,0,-5.59338933139452e-09,True
+1988_49_long,mad,Panama,0.0,-4.76155125687727e-09,True
+1988_49_long,mad,Paraguay,0.0,-7.9565568312044e-09,True
+1988_49_long,mad,Peru,0.336,0.335807165108028,True
+1988_49_long,mad,Portugal,0.0,-6.53058982806524e-09,True
+1988_49_long,mad,Puerto Rico,0.0,-5.28227681946395e-09,True
+1988_49_long,mad,Saint Lucia,0.0,-4.12852076333845e-09,True
+1988_49_long,mad,Spain,0,-6.74828438571447e-09,True
+1988_49_long,mad,Sweden,0,-2.25848161843539e-09,True
+1988_49_long,mad,Trinidad and Tobago,0,-1.01810048643521e-08,True
+1988_49_long,mad,Turkey,0.0,-5.98512156367613e-09,True
+1988_49_long,mad,United Kingdom,0,-3.79308202676768e-10,True
+1988_49_long,mad,United States,0.015,0.0149187054728679,True
+1988_49_long,mad,Uruguay,0.239,0.238839836067067,True
+1988_49_long,mad,Venezuela (Bolivarian Republic of),0,-1.18324459709138e-09,True

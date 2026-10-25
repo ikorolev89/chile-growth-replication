@@ -1,0 +1,3 @@
+"dataset","rows_raw_prepared","rows_csv","keys_equal","max_gdp_error","max_log_error","log_identity_error","rdata_max_log_error","rdata_missing"
+"wb",4895,4895,TRUE,4.80213202536106e-10,4.9737991503207e-14,5.15143483426073e-14,0,0
+"mad",9425,9425,TRUE,4.51109372079372e-10,4.9737991503207e-14,5.15143483426073e-14,0,0

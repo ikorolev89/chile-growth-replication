@@ -1,0 +1,15 @@
+{
+  "old_version": "2.0.5",
+  "new_version": "2.4.5",
+  "panels": 18,
+  "changed_factor_count": 15,
+  "mean_gap_sign_changes": 2,
+  "endpoint_gap_sign_changes": 4,
+  "max_abs_mean_gap_change_pp": 174.1357761197151,
+  "max_annual_gap_change_pp": 536.5167795518722,
+  "unaffected_max_error": {
+    "actual": 0.0,
+    "SCM": 0.0,
+    "BSTSM": 0.0
+  }
+}

@@ -1,0 +1,11 @@
+# Install only into this replication project, then restore the recorded versions.
+root<-normalizePath(getwd())
+if(!file.exists("renv.lock"))stop("Run from the replication archive root")
+bootstrap<-file.path(root,".bootstrap-library")
+Sys.setenv(RENV_PATHS_ROOT=file.path(root,".renv-cache"))
+dir.create(bootstrap,showWarnings=FALSE)
+.libPaths(c(bootstrap,.libPaths()))
+if(!requireNamespace("renv",quietly=TRUE))
+  install.packages("renv",lib=bootstrap,repos="https://cloud.r-project.org")
+renv::consent(provided=TRUE)
+renv::restore(project=root,lockfile=file.path(root,"renv.lock"),prompt=FALSE)
